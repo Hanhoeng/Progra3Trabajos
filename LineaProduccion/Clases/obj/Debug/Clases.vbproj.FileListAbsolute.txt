@@ -8,3 +8,12 @@ C:\Users\bryan\Desktop\trabajosprogra\progra3\LineaProduccion\Clases\bin\Debug\C
 C:\Users\bryan\Desktop\trabajosprogra\progra3\LineaProduccion\Clases\obj\Debug\Clases.exe
 C:\Users\bryan\Desktop\trabajosprogra\progra3\LineaProduccion\Clases\obj\Debug\Clases.xml
 C:\Users\bryan\Desktop\trabajosprogra\progra3\LineaProduccion\Clases\obj\Debug\Clases.pdb
+C:\Users\COPPEL\Desktop\Progra3Trabajos\LineaProduccion\Clases\bin\Debug\Clases.exe
+C:\Users\COPPEL\Desktop\Progra3Trabajos\LineaProduccion\Clases\bin\Debug\Clases.pdb
+C:\Users\COPPEL\Desktop\Progra3Trabajos\LineaProduccion\Clases\bin\Debug\Clases.xml
+C:\Users\COPPEL\Desktop\Progra3Trabajos\LineaProduccion\Clases\obj\Debug\Clases.vbprojResolveAssemblyReference.cache
+C:\Users\COPPEL\Desktop\Progra3Trabajos\LineaProduccion\Clases\obj\Debug\Clases.Resources.resources
+C:\Users\COPPEL\Desktop\Progra3Trabajos\LineaProduccion\Clases\obj\Debug\Clases.vbproj.GenerateResource.Cache
+C:\Users\COPPEL\Desktop\Progra3Trabajos\LineaProduccion\Clases\obj\Debug\Clases.exe
+C:\Users\COPPEL\Desktop\Progra3Trabajos\LineaProduccion\Clases\obj\Debug\Clases.xml
+C:\Users\COPPEL\Desktop\Progra3Trabajos\LineaProduccion\Clases\obj\Debug\Clases.pdb

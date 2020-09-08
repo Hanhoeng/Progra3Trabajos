@@ -14,3 +14,17 @@ C:\Users\bryan\Desktop\trabajosprogra\progra3\LineaProduccion\LineaProduccion\ob
 C:\Users\bryan\Desktop\trabajosprogra\progra3\LineaProduccion\LineaProduccion\obj\Debug\LineaProduccion.exe
 C:\Users\bryan\Desktop\trabajosprogra\progra3\LineaProduccion\LineaProduccion\obj\Debug\LineaProduccion.xml
 C:\Users\bryan\Desktop\trabajosprogra\progra3\LineaProduccion\LineaProduccion\obj\Debug\LineaProduccion.pdb
+C:\Users\COPPEL\Desktop\Progra3Trabajos\LineaProduccion\LineaProduccion\obj\Debug\LineaProduccion.exe
+C:\Users\COPPEL\Desktop\Progra3Trabajos\LineaProduccion\LineaProduccion\obj\Debug\LineaProduccion.xml
+C:\Users\COPPEL\Desktop\Progra3Trabajos\LineaProduccion\LineaProduccion\obj\Debug\LineaProduccion.pdb
+C:\Users\COPPEL\Desktop\Progra3Trabajos\LineaProduccion\LineaProduccion\bin\Debug\LineaProduccion.exe
+C:\Users\COPPEL\Desktop\Progra3Trabajos\LineaProduccion\LineaProduccion\bin\Debug\LineaProduccion.pdb
+C:\Users\COPPEL\Desktop\Progra3Trabajos\LineaProduccion\LineaProduccion\bin\Debug\LineaProduccion.xml
+C:\Users\COPPEL\Desktop\Progra3Trabajos\LineaProduccion\LineaProduccion\bin\Debug\Clases.exe
+C:\Users\COPPEL\Desktop\Progra3Trabajos\LineaProduccion\LineaProduccion\bin\Debug\Clases.pdb
+C:\Users\COPPEL\Desktop\Progra3Trabajos\LineaProduccion\LineaProduccion\bin\Debug\Clases.xml
+C:\Users\COPPEL\Desktop\Progra3Trabajos\LineaProduccion\LineaProduccion\obj\Debug\LineaProduccion.vbprojResolveAssemblyReference.cache
+C:\Users\COPPEL\Desktop\Progra3Trabajos\LineaProduccion\LineaProduccion\obj\Debug\LineaProduccion.SeleccionMaterial.resources
+C:\Users\COPPEL\Desktop\Progra3Trabajos\LineaProduccion\LineaProduccion\obj\Debug\LineaProduccion.SeleccionTenis.resources
+C:\Users\COPPEL\Desktop\Progra3Trabajos\LineaProduccion\LineaProduccion\obj\Debug\LineaProduccion.Resources.resources
+C:\Users\COPPEL\Desktop\Progra3Trabajos\LineaProduccion\LineaProduccion\obj\Debug\LineaProduccion.vbproj.GenerateResource.Cache
