@@ -1,9 +1,5 @@
-﻿Imports Clases
+﻿Public Class SeleccionTenis
 
-
-
-Public Class SeleccionTenis
-    Dim zapato As New TenisBase
     Dim listaModelos As New List(Of String)
     Dim listaTallas As New List(Of Double)
     Dim listaPrecios As New List(Of Double)
@@ -50,9 +46,11 @@ Public Class SeleccionTenis
     End Sub
 
     Private Sub ButtonEnviar_Click(sender As Object, e As EventArgs) Handles ButtonEnviar.Click
-        zapato.Precio = CType(EtiquetaPrecio.Text, Double)
-        zapato.Modelo = ComboBoxModelo.Text
-        zapato.Talla = CType(ComboBoxTalla.Text, Double)
-
+        precio = CType(EtiquetaPrecio.Text, Double)
+        modelo = ComboBoxModelo.Text
+        talla = CType(ComboBoxTalla.Text, Double)
+        cantidad = CType(TextBoxCantidad.Text, Integer)
+        SeleccionMaterial.Show()
+        Me.Hide()
     End Sub
 End Class

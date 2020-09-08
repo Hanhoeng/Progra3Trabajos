@@ -30,6 +30,8 @@ Partial Class SeleccionTenis
         Me.ComboBoxTalla = New System.Windows.Forms.ComboBox()
         Me.EtiquetaPrecio = New System.Windows.Forms.Label()
         Me.ButtonEnviar = New System.Windows.Forms.Button()
+        Me.Label5 = New System.Windows.Forms.Label()
+        Me.TextBoxCantidad = New System.Windows.Forms.TextBox()
         Me.SuspendLayout()
         '
         'Label1
@@ -103,11 +105,29 @@ Partial Class SeleccionTenis
         Me.ButtonEnviar.Text = "Siguiente"
         Me.ButtonEnviar.UseVisualStyleBackColor = True
         '
+        'Label5
+        '
+        Me.Label5.AutoSize = True
+        Me.Label5.Location = New System.Drawing.Point(315, 255)
+        Me.Label5.Name = "Label5"
+        Me.Label5.Size = New System.Drawing.Size(49, 13)
+        Me.Label5.TabIndex = 8
+        Me.Label5.Text = "Cantidad"
+        '
+        'TextBoxCantidad
+        '
+        Me.TextBoxCantidad.Location = New System.Drawing.Point(408, 255)
+        Me.TextBoxCantidad.Name = "TextBoxCantidad"
+        Me.TextBoxCantidad.Size = New System.Drawing.Size(118, 20)
+        Me.TextBoxCantidad.TabIndex = 9
+        '
         'SeleccionTenis
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(848, 434)
+        Me.Controls.Add(Me.TextBoxCantidad)
+        Me.Controls.Add(Me.Label5)
         Me.Controls.Add(Me.ButtonEnviar)
         Me.Controls.Add(Me.EtiquetaPrecio)
         Me.Controls.Add(Me.ComboBoxTalla)
@@ -131,4 +151,6 @@ Partial Class SeleccionTenis
     Friend WithEvents ButtonEnviar As Button
     Public WithEvents ComboBoxModelo As ComboBox
     Public WithEvents ComboBoxTalla As ComboBox
+    Friend WithEvents Label5 As Label
+    Friend WithEvents TextBoxCantidad As TextBox
 End Class
