@@ -1,0 +1,10 @@
+C:\Users\bryan\Desktop\trabajosprogra\progra3\LineaProduccion\Clases\obj\Debug\Clases.vbprojAssemblyReference.cache
+C:\Users\bryan\Desktop\trabajosprogra\progra3\LineaProduccion\Clases\obj\Debug\Clases.Resources.resources
+C:\Users\bryan\Desktop\trabajosprogra\progra3\LineaProduccion\Clases\obj\Debug\Clases.vbproj.GenerateResource.cache
+C:\Users\bryan\Desktop\trabajosprogra\progra3\LineaProduccion\Clases\obj\Debug\Clases.vbproj.CoreCompileInputs.cache
+C:\Users\bryan\Desktop\trabajosprogra\progra3\LineaProduccion\Clases\bin\Debug\Clases.exe
+C:\Users\bryan\Desktop\trabajosprogra\progra3\LineaProduccion\Clases\bin\Debug\Clases.pdb
+C:\Users\bryan\Desktop\trabajosprogra\progra3\LineaProduccion\Clases\bin\Debug\Clases.xml
+C:\Users\bryan\Desktop\trabajosprogra\progra3\LineaProduccion\Clases\obj\Debug\Clases.exe
+C:\Users\bryan\Desktop\trabajosprogra\progra3\LineaProduccion\Clases\obj\Debug\Clases.xml
+C:\Users\bryan\Desktop\trabajosprogra\progra3\LineaProduccion\Clases\obj\Debug\Clases.pdb
